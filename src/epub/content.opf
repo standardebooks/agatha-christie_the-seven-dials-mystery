@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/agatha-christie/the-seven-dials-mystery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,17 +37,19 @@
 		<meta property="term" refines="#subject-2">sh2008108887</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta id="collection-1" property="belongs-to-collection">Superindendent Battle</meta>
+		<meta id="collection-1" property="belongs-to-collection">Superintendent Battle</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A weekend party at a country mansion ends in murder, and the daughter of the lord of the estate joins Superintendent Battle in investigating.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The country mansion Chimneys, the setting of &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Christie’s&lt;/a&gt; earlier novel &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/agatha-christie/the-secret-of-chimneys"&gt;The Secret of Chimneys&lt;/a&gt;&lt;/i&gt;, has been rented out by Lord and Lady Coote, who are hosting a weekend party. One of the guests, Gerry Wade, has a habit of oversleeping, so his friends decide to play a prank on him by surrounding his bed with eight alarm clocks. Naturally, the next morning he is found murdered in his bed, with one of the alarm clocks missing—leaving only seven dials in his bedroom.&lt;/p&gt;
+			&lt;p&gt;Eileen “Bundle” Caterham, the daughter of the owner of Chimneys and one of the characters in &lt;i&gt;The Secret of Chimneys&lt;/i&gt;, joins &lt;a href="https://standardebooks.org/collections/superintendent-battle"&gt;Superintendent Battle&lt;/a&gt; in investigating the crime. Her doggedness leads her to a scheme of grand industrial espionage—and a mysterious secret society.&lt;/p&gt;
+			&lt;p&gt;Unlike &lt;i&gt;The Secret of Chimneys&lt;/i&gt;, &lt;i&gt;The Seven Dials Mystery&lt;/i&gt; met with a middling reception, with contemporary reviewers complaining about a lack of the vivacity that made &lt;i&gt;Secret&lt;/i&gt; so charming, an almost-unguessable solution to the mystery, and an unlikely ending to the novel. Christie wrote it in what she called her “plutocratic era,” when she favored easily- and quickly-written stories that could be sold for very large sums to American publishers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/murderinmewsseve0000agat</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">67959</meta>
+		<meta property="se:reading-ease.flesch">78.25</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Seven_Dials_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_the-seven-dials-mystery</meta>
 		<dc:creator id="author">Agatha Christie</dc:creator>
