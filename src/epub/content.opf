@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Seven Dials Mystery</dc:title>
 		<meta property="file-as" refines="#title">Seven Dials Mystery, The</meta>
-		<meta property="dcterms:alternate" refines="#title">7 Dials Mystery</meta>
+		<meta property="dcterms:alternative" refines="#title">7 Dials Mystery</meta>
 		<dc:subject id="subject-1">Superintendent Battle (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Police -- England -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
