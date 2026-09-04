@@ -31,8 +31,8 @@
 		<dc:title id="title">The Seven Dials Mystery</dc:title>
 		<meta property="file-as" refines="#title">Seven Dials Mystery, The</meta>
 		<meta property="dcterms:alternative" refines="#title">7 Dials Mystery</meta>
-		<dc:subject id="subject-1">Superintendent Battle (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Police -- England -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Superintendent Battle (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-2">Police--England--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
